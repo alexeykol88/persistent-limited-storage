@@ -1,4 +1,4 @@
-# TypeScript library starter
+npm i persistent-lim-storage
 
 This is a small library to create a persistent limited storage for your project.
 
