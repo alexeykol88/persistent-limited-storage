@@ -29,7 +29,7 @@ Storage.setLimit(limit: number) - to set a new limit for storage.
 
 Storage.getDataFromLocalStorage() - get all data from local storage by the global key, init by default in constructor.
 
-Storage.isFull() - is the storage full?
+Storage.isFull() - check if storage is full.
 
 Storage.getFreeSpace() - return the count of bytes that availble in storage now.
 
